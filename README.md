@@ -1,5 +1,4 @@
 # Material Lite
-
 --------------
 
 For developing based on the theme you want to setup your workflow with the following steps:
